@@ -1,0 +1,55 @@
+<navx>
+                        <h5>
+                            <ul>
+                            <li><m class="bt1">Past Contests</m></li>
+                            <li><m class="bt1">My Contests</m></li>
+                        </ul>
+                    </h5>
+                           <vk>
+                            <ul>
+                                <li><i class="fa-regular fa-circle-question"></i>Virtual Content</li>
+                            </ul>
+                           </vk>
+                        </navx>
+
+
+
+
+                        <nav>
+            <div class="logo"><h1>Deltaty</h1></div>
+            <div class="openMenu"><i class="fa fa-bars"></i></div>
+            <ul class="mainMenu">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Products</a></li>
+                <li><a href="#">Contact</a></li>
+                <li><a href="#">About</a></li>
+                <div class="closeMenu"><i class="fa fa-times"></i></div>
+                <span class="icons">
+                    <i class="fab fa-facebook"></i>
+                    <i class="fab fa-instagram"></i>
+                    <i class="fab fa-twitter"></i>
+                    <i class="fab fa-github"></i>
+                </span>
+            </ul>
+        </nav>
+
+
+
+
+         <nav>
+            <ul>
+                <li><a href=""> EXPLORE</a></li>
+                <li><a href=""> PROBLEMS</a></li>
+                <li><a href=""> CONTEST</a></li>
+                <li><a href="#"> DISCUSS</a></li>
+                <li><a href=""> INTERVIEW</a></li>
+                <li><a href=""> STORE</a></li>
+            </ul>
+            <icons>
+                <ul>
+                <li><i class="fa-regular fa-bell"></i></li>
+                <li><i class="fa-solid fa-fire"></i></li>
+                <li><i class="fa-solid fa-user"></i></li>
+                </ul>
+            </icons>
+        </nav>
